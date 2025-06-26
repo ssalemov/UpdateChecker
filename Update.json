@@ -1,9 +1,18 @@
 {
  "Stable": {
+   "available":"True",
    "name":"EternityROM",
    "version":"v5.0",
    "File":"tu",
-   "Changelog":"changelog.txt",
-   "Devices":"N970F,N971N,N975F,N976B,N976N"
+   "Changelog":"https://raw.githubusercontent.com/ssalemov/UpdateChecker/changelog.txt",
+   "Devices":"SM-N970F,SM-N971N,SM-N975F,SM-N976B,SM-N976N"
+ },
+ "Beta": {
+  "available":"false",
+  "name":"EternityROM",
+  "version":"nothing",
+  "File":"nothing",
+  "Changelog":"nothing",
+  "Devices":"nothing"
  }
 }
