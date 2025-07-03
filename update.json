@@ -1,6 +1,6 @@
 {
   "version":"v1.0",
   "versionCode":"1",
-  "zipUrl":"tu",
-  "changelog":"changelog.md"
+  "zipUrl":"https://github.com/ssalemov/UpdateChecker/UpdateChecker.zip",
+  "changelog":"https://raw.githubusercontent.com/ssalemov/UpdateChecker/Changelog.md"
 }
