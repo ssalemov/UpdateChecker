@@ -1,1 +1,7 @@
-Nothing
+- Update to June SPL (S926BXXS7BYEC)
+- Fixed Secure Folder
+- Improve status bar padding for Note10+
+- Experimental:
+  - Try to improve low signal on LTE
+- Resolve camera crashing:
+  - This was a regression over v5.0
