@@ -1,14 +1,13 @@
-- Rebased on SM-S721B (S24 FE):
-  - Smoother, faster and lighter
-  - Ported missing features, such as EnvironmentAdaptiveDisplay
-- Upstream KernelSU-Next to v1.0.8
-- Fixed Routines beeing blank
-- Slight rework of the debloat list
-- Fixed the ROM name in Settings
-- Fixed HDR10+ recording:
-  - Thanks ExtremeXT
-- S25 Ultra CSCs and Sounds:
-  - S24 FE is missing some CSCs
-  - Thanks ExtremeXT
-- Fixed Hotwords
-- General cleanup in the build system
+- Updated to August SPL (S721BXXS7BYH1)
+- Resolved Bluetooth regression issues
+- Upstreamed build system:
+  - Thanks majaahh
+  - Thanks salvogiangri
+- Add Signature patch:
+  - More secure
+  - Allow to edit /res for apks
+  - Thanks salvogiangri
+- OneUI 7 icon for SamsungCamera
+- Fixed 16MP UW:
+  - Since OneUI 5.0 our UW was running in 12mp mode
+  - Thanks Mesazane
