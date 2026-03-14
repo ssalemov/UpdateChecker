@@ -3,6 +3,7 @@
  "name":"EternityROM",
  "version":"v5.5",
  "File":"tu",
+ "MD5":"dummy",
  "Changelog":"https://raw.githubusercontent.com/ssalemov/UpdateChecker/main/changelog.txt",
  "Devices":"SM-N970F,SM-N971N,SM-N975F,SM-N976B,SM-N976N"
 }
